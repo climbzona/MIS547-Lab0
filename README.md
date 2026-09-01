@@ -7,5 +7,5 @@ By selecting the following checkmarks, I attest that I have followed the instruc
 4. Installed git [X] 
 5. Installed VSCode [X] 
 6. Set up a GitHub account, added my SSH keys, and set my name and email address [X] 
-9. Created a DigitalOcean Account [] 
+9. Created a DigitalOcean Account [X] 
 10. Created a Slack Account and Joined the MIS547 Slack Workspace [X]
